@@ -36,6 +36,7 @@ x [winreg](https://github.com/moteus/lua-winreg)
 x [date](https://github.com/Tieske/date) [DOC](http://tieske.github.io/date/)
 - [utf8](http://github.com/starwing/luautf8) ,just for Lua before 5.3
 - [luaiconv](https://github.com/ittner/lua-iconv/), depends on [libiconv](http://www.gnu.org/software/libiconv/) 
+- [ansicode] modified version based on (http://hi.baidu.com/nivrrex/item/24079590518cda1f924f41a0)
   
 zip 
 - [ziparchive](https://github.com/jjensen/lua-ziparchive), depends on [zlib1](http://www.gzip.org/zlib/)
