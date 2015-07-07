@@ -41,7 +41,7 @@ os
 zip 
 - [ziparchive](https://github.com/jjensen/lua-ziparchive), depends on [zlib1](http://www.gzip.org/zlib/)
   used for xlsx parser
-- [zlib](https://github.com/brimworks/lua-zlib),depends on [zlib](http://www.zlib.net/)
+- [lua-zlib](https://github.com/brimworks/lua-zlib),depends on [zlib](http://www.zlib.net/)
 
 spreadsheet
 - [csv](http://lua-users.org/lists/lua-l/2009-08/msg00012.html)  --removed, too much problems
